@@ -1,6 +1,7 @@
 branches:
   only:
     - master
+    - ci/strict
 
 environment:
   nodejs_version: ""
